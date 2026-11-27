@@ -16,3 +16,6 @@
 - https://learngitbranching.js.org/?locale=pt_BR
 - https://flexboxfroggy.com/
 - https://www.lightbot.lu/
+
+
+Importante: gere um arquivo com o nome de "README.md" e adicione as informações (em portugues) necessarias
